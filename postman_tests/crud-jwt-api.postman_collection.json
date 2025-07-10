@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "cf588321-84a2-4d6b-ac17-04e3c70c81f4",
+		"name": "CRUD JWT API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44110299",
+		"_collection_link": "https://solar-trinity-450222.postman.co/workspace/Kevin-Fa%25C3%25A7anha's-Workspace~5b7cf43b-b44e-4a56-8ed7-6d4fc242a6e3/collection/44110299-cf588321-84a2-4d6b-ac17-04e3c70c81f4?action=share&source=collection_link&creator=44110299"
+	},
+	"item": [
+		{
+			"name": "/api/login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/api/produtos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/api/produtos — Criar novo produto no sistema",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/api/produtos/:id — Buscar produto específico por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/api/produtos/:id — Atualizar produto por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/api/produtos/:id — Remover produto por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
